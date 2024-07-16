@@ -44,7 +44,7 @@ if ($conn->connect_error) {
   <div class="main">
     <div class="centered-container">
       <div class="text">
-        <div class="maintext">Railway Adventure Awaits,
+        <div class="maintext">Metro Adventure Awaits,
           <span>
             <div class="words">
               <span> Reserve Now</span>
@@ -56,7 +56,7 @@ if ($conn->connect_error) {
             <span>
         </div>
         <div class="normaltext">
-          Travel by Rails is a platform that allows you to book train travels
+          Travel by Metro is a platform that allows you to book train travels
           with ease and comfort.
         </div>
       </div>

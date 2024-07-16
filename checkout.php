@@ -100,7 +100,7 @@ $JourneyDate = $_GET['JourneyDate'];
                         <?php
                         if (!isset($_SESSION['gstAmount'])) {
                             // Generate a random GST amount if it hasn't been generated before
-                            $_SESSION['gstAmount'] = rand(100, 200);
+                            $_SESSION['gstAmount'] = rand(10, 15);
                         }
 
                         $gstAmount = $_SESSION['gstAmount'];
